@@ -7,6 +7,9 @@
     font-size: 13px;
   }
   
+  .pic {
+    float: right;
+  }
   .headerli a {
     display: block;
     color: black;
@@ -104,8 +107,9 @@
     cursor: text;
   }
   
+
   .googlesearch {
-    margin: 11px 4px;
+    margin: 11px auto;
     padding: 0 16px;
     line-height: 27px;
     min-width: 54px;
@@ -115,6 +119,8 @@
   }
   
   .feelinglucky {
+    width: 20%;
+    margin: 0 auto;
     padding: 0 16px;
     line-height: 27px;
     min-width: 54px;
